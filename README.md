@@ -1,6 +1,6 @@
 # Aplicación Ideas4All para dispositivos Android #
 
-Este repositorio alberga el código fuente de la aplicación Ideas4All para Android. El objetivo de esta aplicación es participar en el concurso #BigBangApps convocado por la web *[Ideas4All(http://ideas4all.com)*.
+Este repositorio alberga el código fuente de la aplicación Ideas4All para Android. El objetivo de esta aplicación es participar en el concurso #BigBangApps convocado por la web *[Ideas4All](http://ideas4all.com)*.
 
 
 ## Sobre la aplicación ##
@@ -14,7 +14,7 @@ Cuando sepas la idea de la que quieres saber más información, solamente tienes
 Por el momento la aplicación solo es de lectura. No se pueden publicar nuevas ideas o comentarios. Esto ya será posible en una próxima actualización.
 
 La aplicación se puede descargar desde el Android Market buscando "ideas4all" o desde este enlace:
-*[Market(https://market.android.com/details?id=com.jonsegador.ideas4all)*
+*[Market](https://market.android.com/details?id=com.jonsegador.ideas4all)*
 
 
 ## Screenshots ##
