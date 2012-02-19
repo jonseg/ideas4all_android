@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="wrap_content"
+  android:layout_height="wrap_content"
+  android:paddingLeft="5dip"
+  android:orientation="vertical">
+
+<TextView android:id="@+id/title"
+    android:layout_marginBottom="2dip"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	android:textColor="#ff4f5054"
+	android:textStyle="bold"
+	android:textSize="16dip" />
+
+	<LinearLayout android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="horizontal"
+	    android:background="#ffffffff" >
+
+<ImageView android:id="@+id/votos_icon"
+    android:layout_gravity="left"
+	android:contentDescription="Votos"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:src="@drawable/votes_icon" />
+
+<TextView android:id="@+id/votes_count"
+    android:layout_gravity="left"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:textColor="#ff4f5054"
+	android:textStyle="normal"
+	android:textSize="14dip" />
+
+<ImageView android:id="@+id/comments_icon"
+    android:layout_gravity="left"
+    android:layout_marginLeft="5dip"
+	android:contentDescription="Comments"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:src="@drawable/comments_icon" />
+
+<TextView android:id="@+id/comments_count"
+    android:layout_gravity="left"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:textColor="#ff4f5054"
+	android:textStyle="normal"
+	android:textSize="14dip" />
+</LinearLayout>
+
+<TextView android:id="@+id/user_login"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	android:textColor="#ff4f5054"
+	android:textStyle="normal"
+	android:textSize="14dip" />	
+	
+</LinearLayout>

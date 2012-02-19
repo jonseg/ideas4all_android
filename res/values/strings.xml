@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Ideas4AllActivity!</string>
+    <string name="app_name">Ideas4All</string>
+    
+    <string name="no_categories">No se han encontrado categorias</string>
+    <string name="no_comments">Esta idea no tiene comentarios</string>
+    
+    <string name="order_by_date">Ordenar\npor fecha</string>
+    <string name="order_by_title">Ordenar\npor titulo</string>
+    <string name="order_by_votes">Ordenar\npor votos</string>
+
+</resources>
