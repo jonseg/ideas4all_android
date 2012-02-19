@@ -14,7 +14,8 @@ Cuando sepas la idea de la que quieres saber más información, solamente tienes
 Por el momento la aplicación solo es de lectura. No se pueden publicar nuevas ideas o comentarios. Esto ya será posible en una próxima actualización.
 
 La aplicación se puede descargar desde el Android Market buscando "ideas4all" o desde este enlace:
-*[Market](https://market.android.com/details?id=com.jonsegador.ideas4all)*
+
+*[Descargar Ideas4All del Android Market](https://market.android.com/details?id=com.jonsegador.ideas4all)*
 
 
 ## Screenshots ##
