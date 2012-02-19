@@ -2,6 +2,10 @@
 
 Este repositorio alberga el código fuente de la aplicación Ideas4All para Android. El objetivo de esta aplicación es participar en el concurso #BigBangApps convocado por la web *[Ideas4All](http://ideas4all.com)*.
 
+Podéis encontrar una explicación del código en mi blog:
+
+*[Leer/parsear archivo XML en Android mediante SAX](http://jonsegador.com/2012/02/leer-parsear-archivo-xml-en-android-mediante-sax/)*
+
 
 ## Sobre la aplicación ##
 
